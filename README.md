@@ -1,4 +1,4 @@
-- 👋 hi, I’m @francestron
+- 👋 hi, i’m @francestron
 - 👀 i’m interested in polisci, ir, security studies, area studies, war, peace, & conflict studies
 - 🌱 i’m currently learning r
 - 💞️ i’m looking to collaborate on academic and policy projects
